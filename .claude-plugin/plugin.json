@@ -1,0 +1,19 @@
+{
+  "name": "skills",
+  "description": "A collection of software engineering skills covering clean code, design patterns, refactoring, DDD, REST API design, and testing patterns.",
+  "author": {
+    "name": "Emanuel Cerqueira"
+  },
+  "skills": [
+    "./cdd-design-pillars",
+    "./clean-code",
+    "./ddd-da-massa",
+    "./gof-patterns",
+    "./lombok-patterns",
+    "./mapstruct-patterns",
+    "./quarkus-panache",
+    "./refactoring-catalog",
+    "./rest-api-design",
+    "./testing-patterns"
+  ]
+}
